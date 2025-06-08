@@ -23,5 +23,5 @@ You can clone this project on your local machine. To do that, you must have git 
 
 ##### Reference Links
 
-[Flutter Official Documentation](https://docs.flutter.dev/)
-[Google Firebase](https://firebase.google.com)
+- [Flutter Official Documentation](https://docs.flutter.dev/)
+- [Google Firebase Docs](https://firebase.google.com)
