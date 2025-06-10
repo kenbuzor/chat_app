@@ -1,5 +1,7 @@
 # Chat App
 
+![Custom Badge](https://img.shields.io/badge/Flutter-Firebase-blue?logo=flutter) ![Custom Badge](https://img.shields.io/badge/iOS-black?logo=apple) ![Custom Badge](https://img.shields.io/badge/Android-iOS-yellow?logo=android) ![License](https://img.shields.io/github/license/kenbuzor/chat_app)
+
 ### Overview
 
 This is a single page chat application for every signed-up user. Once you create an account, you automatically have access to the chat room.
