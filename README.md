@@ -1,6 +1,6 @@
 # Chat App
 
-![Custom Badge](https://img.shields.io/badge/Flutter-Firebase-blue?logo=flutter) ![Custom Badge](https://img.shields.io/badge/iOS-black?logo=apple) ![Custom Badge](https://img.shields.io/badge/Android-iOS-yellow?logo=android) ![License](https://img.shields.io/github/license/kenbuzor/chat_app)
+![Custom Badge](https://img.shields.io/badge/Flutter-Firebase-blue?logo=flutter) ![Custom Badge](https://img.shields.io/badge/Android-iOS-black?logo=android) ![License](https://img.shields.io/github/license/kenbuzor/chat_app)
 
 ### Overview
 
